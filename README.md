@@ -1,6 +1,6 @@
 ### Hi there 👋
-GoIT home work website:https://florinbejera2002.github.io/goit-markup-hw-01/
-My personal site: https://florinbejera.netlify.app/
+-GoIT home work website:https://florinbejera2002.github.io/goit-markup-hw-01/
+-My personal site: https://florinbejera.netlify.app/
 <!--
 **FlorinBejera2002/florinbejera2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
