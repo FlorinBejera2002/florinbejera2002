@@ -1,5 +1,5 @@
 ### Hi there 👋
-GoIT home work website
+GoIT homework website:
 
 homework1:https://florinbejera2002.github.io/goit-markup-hw-01/ 
                       
