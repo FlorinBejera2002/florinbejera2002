@@ -1,16 +1,17 @@
 ### Hi there 👋
+My personal site: https://florinbejera.netlify.app/ 
+
 GoIT homework website:
 
 homework1:https://florinbejera2002.github.io/goit-markup-hw-01/ 
                       
-                      
 homework2: https://florinbejera2002.github.io/goit-markup-hw-02/
-
 
 homework3:https://genuine-crisp-439da3.netlify.app/
 
+homework4:https://florinbejera2002.github.io/goit-markup-hw-04/
 
-My personal site: https://florinbejera.netlify.app/ 
+ 
 
 
 <!--
