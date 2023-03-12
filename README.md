@@ -13,7 +13,7 @@ homework4:https://florinbejera2002.github.io/goit-markup-hw-04/
 
 homework5:https://florinbejera2002.github.io/goit-markup-hw-05/
 
-homework6:
+homework6:https://florinbejera2002.github.io/goit-markup-hw-06/
 
  
 
