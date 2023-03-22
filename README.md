@@ -1,7 +1,7 @@
 ### Hi there 👋
 My personal site: https://florinbejera.netlify.app/ 
 
-GoIT homework website:
+GoIT homework:
 
 homework1:https://florinbejera2002.github.io/goit-markup-hw-01/ 
                       
