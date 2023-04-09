@@ -3,7 +3,7 @@ My personal site: https://florinbejera.netlify.app/
 
 GoIT homework (HTM and CSS):
 
-HTML and CSS
+HTML and 
 
 homework1:https://florinbejera2002.github.io/goit-markup-hw-01/ 
                       
