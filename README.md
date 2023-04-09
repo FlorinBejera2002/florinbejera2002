@@ -2,7 +2,8 @@
 My personal site: https://florinbejera.netlify.app/ 
 
 GoIT homework:
-HTML 
+
+HTML and
 
 homework1:https://florinbejera2002.github.io/goit-markup-hw-01/ 
                       
