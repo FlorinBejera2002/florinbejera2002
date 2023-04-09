@@ -1,7 +1,7 @@
 ### Hi there 👋
 My personal site: https://florinbejera.netlify.app/ 
 
-GoIT homework (HTML:
+GoIT homework (HTM and CSS):
 
 HTML and CSS
 
