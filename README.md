@@ -1,5 +1,5 @@
 ### Hi there 👋
-My personal site: https://florinbejera.netlify.app/ 
+My personal site:
 
 GoIT homework (HTM and CSS):
 
