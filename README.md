@@ -18,7 +18,7 @@ homework6:https://florinbejera2002.github.io/goit-markup-hw-06/
 
 homework7:https://florinbejera2002.github.io/goit-markup-hw-07/
 
-homework8:
+homework8:https://florinbejera2002.github.io/goit-markup-hw-08/
 
 
 
