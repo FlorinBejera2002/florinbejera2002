@@ -1,5 +1,4 @@
 ### Hi there 👋
-My personal site:
 
 GoIT homework (HTM and CSS):
 
