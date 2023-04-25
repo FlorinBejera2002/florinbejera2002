@@ -19,7 +19,7 @@ homework7:https://florinbejera2002.github.io/goit-markup-hw-07/
 
 homework8:https://florinbejera2002.github.io/goit-markup-hw-08/
 
-Team project (html, css):https://dris11.github.io/Project-Ice-Cream/
+Team project:https://dris11.github.io/Project-Ice-Cream/
 
 
 
